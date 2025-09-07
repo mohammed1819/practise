@@ -62,3 +62,6 @@ I'm **Mohammed**, a passionate Full-Stack Developer who loves building innovativ
 ---
 
 ⭐ **Fun Fact**: I love hiking and brewing coffee!
+---
+[the java file](j.java)
+[the python file](p.py)
